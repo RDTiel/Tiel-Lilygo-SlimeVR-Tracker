@@ -42,9 +42,10 @@ store then go with that.
    For more stable chest trackers
 
 ## 3d Printing
-1. Buckles and Cases both Main and Extension can be printed at these settings
+1. Buckles and Cases both Main and Extension can be printed at these settings for 0.4mm nozzle
    
    Line width: 0.6
+   
    Layer height: 0.32
 
 3. The switch should be printed at this setting
