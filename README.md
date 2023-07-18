@@ -19,7 +19,7 @@ store then go with that.
 
 ### Main Trackers
 1. [Lilygo T-OI](https://www.aliexpress.com/item/4000429611680.html)
-2. [BMI 160](https://www.aliexpress.com/item/4000429611680.html)
+2. [BMI 160](https://www.aliexpress.com/item/4000052683444.html)
    Suggested stores: Mwss, Wansai, Tenstar, Aixterm, Mwss
 3. 16340 Battery
 4. Any wire
@@ -29,7 +29,7 @@ store then go with that.
    Suggested lengths:
    Ankle-Foot extension: 20cm
    Chest-Waist extension: 30cm
-2. [BMI 160](https://www.aliexpress.com/item/4000429611680.html)
+2. [BMI 160](https://www.aliexpress.com/item/4000052683444.html)
 
 
 ### Accessories
