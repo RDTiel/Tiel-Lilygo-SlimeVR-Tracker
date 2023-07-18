@@ -116,6 +116,7 @@ In platformio.ini Set your wifi credentials
 ![01](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/45289a3a-ec4b-4a64-92e8-d0ebe6795217)
 
 In \src\batterymonitor.h set the define of batteryADCMultiplier to:
+
 #define batteryADCMultiplier 0.0072271914132379
 
 In defines.h
