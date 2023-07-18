@@ -32,7 +32,7 @@ store then go with that.
    
    ![Screenshot 2023-07-18 195823](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/8d8f4c03-a82a-4128-bb1a-d837966f9940)
 
-5. Any wire
+5. Any wire. 26-28 awg
 
 ### Extension Trackers
 1. Grove 4 pin cable male.
