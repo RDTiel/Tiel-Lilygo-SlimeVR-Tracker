@@ -71,11 +71,14 @@ It goes on the holes labeled 4 & 5
 
 ### 5. Solder the Ground and Power to the Lilygo Board
 Wire for power connects to the hole labeled 3V3
+
 Wire for ground connects to the hole labeled GND
+
 ![M06](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/96ba692b-da10-4858-8e6c-0dc852c18c96)
 
 ### 6. Solder SCL and SDA to the header pins
 SCL goes to the pin labeled 5
+
 SDA goes to the pin labeled 4
 ![M07](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/e54a11f3-8426-4197-aa37-0c86d0b157ee)
 
