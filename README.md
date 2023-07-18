@@ -49,7 +49,7 @@ store then go with that.
    For more stable chest trackers
 
 ## 3d Printing
-All parts to be printed without supports
+All parts to be printed without supports on either PLA or PETG
 
 1. Buckles and Cases both Main and Extension can be printed at these settings for 0.4mm nozzle
    
