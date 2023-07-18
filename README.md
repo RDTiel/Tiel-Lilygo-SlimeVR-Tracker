@@ -151,6 +151,7 @@ Set secondary rotation to 90 (For foot extension trackers only)
 Connect the board through micro USB. Then turn on the switch
 ![07](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/4499b1be-06e4-4a7c-a75a-277ae6272e7c)
 Click the build button [1] on the lower left of VSCode
+
 Click the upload button [2]
 
 ![04](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/466c29d2-9c43-4b53-bf8e-399a60890c01)
