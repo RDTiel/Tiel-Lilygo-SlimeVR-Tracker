@@ -132,11 +132,14 @@ First, Setup the environment. Follow this guide on [SlimeVR documentation](https
 
 ### 1. Modify firmware files
 In platformio.ini Set your wifi credentials
-![01](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/45289a3a-ec4b-4a64-92e8-d0ebe6795217)
+![01](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/01c73d55-0cd1-4ccc-b0b2-1e039a661795)
+
 
 In \src\batterymonitor.h set the define of batteryADCMultiplier to:
 
 #define batteryADCMultiplier 0.0072271914132379
+![02](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/ab0d17ff-be26-47d2-8fbe-3d5c9de68efd)
+
 
 In defines.h
 Set IMU to BMI160
