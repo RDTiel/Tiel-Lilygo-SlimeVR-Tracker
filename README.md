@@ -1,5 +1,7 @@
 # Tiel-Lilygo-SlimeVR-Tracker
 SlimeVR Trackers using LilyGo TTGO T-OI with 16340 Battery
+![IMG_20230718_155817](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/9ed07990-4b93-42fa-814f-f4f49336b192)
+
 
 ## Pros
 1. Hotswappable
