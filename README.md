@@ -25,9 +25,10 @@ store then go with that.
 2. [BMI 160](https://www.aliexpress.com/item/4000052683444.html)
    Suggested stores: Mwss, Wansai, Tenstar, Aixterm
 3. 16340 Battery
-   The highest capacity legitimate battery I can find is 800mah. If you find a cheap one
-   advertising above 1000 it is most likely fake.
-   Like this one that boasts 2800 but actually only has 350 when tested. Buyer beware
+   The highest capacity legitimate battery I can find is 800mah.
+
+   WARNING: If you find a cheap one advertising above 1000mah it is most likely fake.
+   Like this one that boasts 2800 but actually only has 350mah (3.5 Hours) when tested. Buyer beware
    ![Screenshot 2023-07-18 195823](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/8d8f4c03-a82a-4128-bb1a-d837966f9940)
 
 5. Any wire
