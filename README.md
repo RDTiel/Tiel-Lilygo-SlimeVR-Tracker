@@ -139,3 +139,10 @@ Enjoy your tracker! It should connect to the slime server
 ## BMI 160 calibration
 [Youtube Video](https://youtu.be/bCKwmGeUpok)
 Note; This was done like this to make it visible in the camera. You should do it in a more stable way (On a table).
+
+## Credits
+Extension case is from [Arcturus](https://github.com/Lixulia/Arcturus/tree/main)
+
+Buckle is from Printables [HD_Creator](https://www.printables.com/@HD_Creator) In printables
+
+
