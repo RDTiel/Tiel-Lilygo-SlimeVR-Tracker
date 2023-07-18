@@ -61,6 +61,8 @@ store then go with that.
 ### 3. Connect the wires to the IMU
 Wire for power goes to 3V3
 Wire for ground goes to GND and SAO
+![M04](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/f04bbdb7-768f-4458-991c-5322d3def678)
+
 
 ### 4. Solder the header pins to the Lilygo Board
 It goes on the holes labeled 4 & 5
