@@ -64,7 +64,7 @@ All parts to be printed without supports
 1. Lilygo Board
 2. BMI160
 3. 3pcs of wire. 2 for ground. 1 for power
-4. 3d printed case and button
+4. 3d printed case and switch
 5. 16340 battery
 6. Header pin cut to 2 pins
 
