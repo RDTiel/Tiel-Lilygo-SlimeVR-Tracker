@@ -121,9 +121,13 @@ In \src\batterymonitor.h set the define of batteryADCMultiplier to:
 
 In defines.h
 Set IMU to BMI160
+
 Set Secondary imu to BMI160
+
 Set board to WemosD1
+
 Set secondary rotation to 90 (For foot extension trackers only)
+
 ![03](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/4096bd81-87d5-44ec-9594-151d0cfd7e2d)
 
 ### 2. Build and Flash
