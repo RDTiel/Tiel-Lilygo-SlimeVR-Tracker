@@ -43,10 +43,14 @@ store then go with that.
 
 ## 3d Printing
 1. Buckles and Cases both Main and Extension can be printed at these settings
+   
    Line width: 0.6
    Layer height: 0.32
-2. The switch should be printed at this setting
+
+3. The switch should be printed at this setting
+
    Line width: 0.3
+   
    Layer height: 0.2
 
 ## Assembly
