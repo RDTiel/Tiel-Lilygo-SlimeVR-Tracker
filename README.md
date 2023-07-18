@@ -14,6 +14,7 @@ SlimeVR Trackers using LilyGo TTGO T-OI with 16340 Battery
 2. 2-3$ more expensive than wemos d1
 3. Less range than wemos d1 since it is using a tinier ceramic antenna.
 4. Requires a 3d printed case
+5. Generally lower capacity. 800mah (8 hours) is the highest capacity battery I can find.
 
 ## Parts list:
 The links are only an example. If you can find a cheaper one on another
