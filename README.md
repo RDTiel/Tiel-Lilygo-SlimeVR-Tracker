@@ -142,20 +142,20 @@ In platformio.ini Set your wifi credentials
 ![01](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/01c73d55-0cd1-4ccc-b0b2-1e039a661795)
 
 
-In \src\batterymonitor.h set the define of batteryADCMultiplier to:
+In **\src\batterymonitor.h** set the define of **batteryADCMultiplier** to:
 
 #define batteryADCMultiplier 0.0072271914132379
 ![02](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/ab0d17ff-be26-47d2-8fbe-3d5c9de68efd)
 
 
-In defines.h
-Set IMU to BMI160
+In **defines.h**
+Set **IMU** to **IMU_BMI160**
 
-Set Secondary imu to BMI160
+Set **SECOND_IMU** to **IMU_BMI160**
 
-Set board to WemosD1
+Set **BOARD** to **BOARD_WEMOSD1MINI**
 
-Set secondary rotation to 90 (For foot extension trackers only)
+Set **SECOND_IMU_ROTATION** to **90** (Only needed for foot trackers)
 
 ![03](https://github.com/RDTiel/Tiel-Lilygo-SlimeVR-Tracker/assets/139855889/4096bd81-87d5-44ec-9594-151d0cfd7e2d)
 
